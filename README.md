@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋 - a Backend Developer passionate about building scalable, high-performance applications.
+
 
 <!--
 **sungandhi-5/sungandhi-5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
