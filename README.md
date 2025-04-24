@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sunny Gandhi</h1>
-<p>I’m a passionate and results-driven Backend Developer with over 4 years of professional experience, specializing in Laravel and Node.js. I have a strong foundation in building robust, scalable backend systems and RESTful APIs, with a growing focus on blockchain and Web3 technologies.</p>
-<p>I hold a Bachelor’s degree in Information Technology from Sarvajanik College of Engineering and Technology (SCET), where I developed a deep interest in scalable system architecture and modern web development best practices.</p>
+<p>I’m a passionate and results-driven Backend Developer with over <b>4 years of professional experience</b>, specializing in <b>Laravel</b> and <b>Node.js.</b> I have a strong foundation in building robust, scalable backend systems and RESTful APIs, with a growing focus on <b>blockchain and Web3 technologies.</b></p>
+<p>I hold a Bachelor’s degree in Information Technology from <b>Sarvajanik College of Engineering and Technology (SCET)</b>, where I developed a deep interest in scalable system architecture and modern web development best practices.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sungandhi-5&label=Profile%20views&color=0e75b6&style=flat" alt="sungandhi-5" /> </p>
 
