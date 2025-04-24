@@ -15,10 +15,10 @@
 
 <h3 align="left">Tech Stack</h3>
 <div align="left">
-  <b>Frontend : </b> HTML,ejs template,Javascript,Jquery,Ajax
-  <b>Backend : </b> Laravel, Nodejs
-  <b>Database : </b> MongoDB,MySql
-  <b>Version Control : </b> Git
+  <p><b>Frontend : </b> HTML,ejs template,Javascript,Jquery,Ajax</p>
+  <p><b>Backend : </b> Laravel, Nodejs</p>
+  <p><b>Database : </b> MongoDB,MySql</p>
+  <p><b>Version Control : </b> Git</p>
 </div>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sungandhi-5&show_icons=true&locale=en&layout=compact" alt="sungandhi-5" /></p>
