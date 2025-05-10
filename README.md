@@ -8,7 +8,7 @@ I hold a Bachelor’s degree in Information Technology from **Sarvajanik College
 
 
 ## Tech Stack
-  - **Frontend** : HTML,ejs template,Javascript,Jquery,Ajax
+  - **Frontend** : HTML,EJS template,Javascript,Jquery,Ajax
   - **Backend** : Laravel, Nodejs
   - **Blockchain** : Web3,Smart contract deployement
   - **Database** : MongoDB,MySql
